@@ -1,4 +1,4 @@
 # Untuk version control dari transaksi usaha
 
 
-![image](./mekanisme-kontrol-versi.jpg)
+![image](./mekanisme-kontrol-versi.png)
